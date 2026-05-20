@@ -34,7 +34,7 @@ I’m passionate about building secure environments through hands-on labs in **A
 ---
 
 ## 🎓 Current Focus
-- Completing **CompTIA A+** and **Network+** certifications  
+- Completing **CompTIA CySA+** and **CCNA** certifications  
 - Deepening skills in **penetration testing, ethical hacking** and **incident response**  
 - Expanding this portfolio with **security monitoring** and **SIEM labs**
 
