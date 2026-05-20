@@ -38,13 +38,9 @@ I’m passionate about building secure environments through hands-on labs in **A
 - Deepening skills in **penetration testing, ethical hacking** and **incident response**  
 - Expanding this portfolio with **security monitoring** and **SIEM labs**
 
----
-
-## 📈 My Roadmap
-See my 3-year growth plan here: [📘 Cybersecurity Roadmap (Excel)](./Ayobami_Odulaja_Cybersecurity_Roadmap.xlsx)
 
 ---
 
 ## 📫 Connect
 🌐 [LinkedIn](http://www.linkedin.com/in/ayobami-odulaja-077004152)    
-🧰 [GitHub Projects](https://github.com/Ayobami1993)
+
