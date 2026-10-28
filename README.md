@@ -40,6 +40,8 @@ Recent guided SOC exercises include phishing-alert review, event correlation, ne
 - **ISC2 Certified in Cybersecurity (CC)**
 - **Microsoft Azure Fundamentals (AZ-900)**
 - **Fortinet NSE 1 and NSE 2** (legacy training credentials)
+- **Qualys Certified Specialist — PCI Compliance** — completed October 28, 2026; expires October 27, 2028
+- **HIPAA for Administrators — OSHAcademy** — completed October 26, 2026; 2 hours (course completion)
 - **CySA+ (CS0-004) — preparing for October 31, 2026**
 - Planned development: SC-200, CCNA, deeper Linux/security engineering
 
